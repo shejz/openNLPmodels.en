@@ -1,0 +1,7 @@
+1ced888b0ee8f356f249248778bd19cf *DESCRIPTION
+d41d8cd98f00b204e9800998ecf8427e *NAMESPACE
+980860858652cb1c7ade591703b99312 *inst/models/parser/head_rules
+42b0b57a3bf3029656bad7d9ca88aaf1 *inst/models/parser/tag.bin.gz
+9c53839163d2f0b43c264e421925c8bb *inst/models/parser/tagdict
+ac56059f130f4579ffbe1e458276e4e0 *inst/models/sentdetect/EnglishSD.bin.gz
+4089ef982432efb78592d636c9ba4e83 *inst/models/tokenize/EnglishTok.bin.gz
